@@ -1,0 +1,3 @@
+com\school\infrastructure\restapi\StudentController.class
+com\school\infrastructure\restapi\StudentRequest.class
+com\school\infrastructure\repository\FluentJdbcRepository.class

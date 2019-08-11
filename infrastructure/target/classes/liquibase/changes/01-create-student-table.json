@@ -1,0 +1,37 @@
+{
+  "databaseChangeLog": [
+    {
+      "changeSet": {
+        "id": "01-create-school-table",
+        "author": "Thor",
+        "changes": [
+          {
+            "createTable": {
+              "tableName": "T_STUDENT",
+              "columns": [
+                {
+                  "column": {
+                    "name": "NAME",
+                    "type": "varchar(255)"
+                  }
+                },
+                {
+                  "column": {
+                    "name": "ID",
+                    "type": "INTEGER"
+                  }
+                },
+                {
+                  "column": {
+                    "name": "ADDRESS",
+                    "type": "varchar(255)"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

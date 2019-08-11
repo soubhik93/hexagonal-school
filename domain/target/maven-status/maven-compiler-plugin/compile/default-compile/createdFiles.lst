@@ -1,0 +1,4 @@
+com\school\domain\SchoolService.class
+com\school\domain\SchoolRepository.class
+com\school\domain\StudentCommand.class
+com\school\domain\entities\Student.class

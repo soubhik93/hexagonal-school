@@ -1,0 +1,4 @@
+com\school\config\LiquibaseConfig.class
+com\school\config\DomainConfig.class
+com\school\config\PersistenceConfig.class
+com\school\MainApplication.class
